@@ -11,4 +11,4 @@ class Bird():
             return self.nombre
         
         def setNombre(self, nombre):
-            self.Nombre = nombre
+            self.nombre = nombre
