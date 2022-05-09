@@ -35,7 +35,7 @@ class Estudiante:
             return self.estado
         
     
-class mostrarFijos(): #En esta clase se mostraran los datos creados fijamente en el archivo main
+class mostrarFijos(): #En esta clase se mostraran los datos creados ya fijados en el archivo main
         def __init__(self, nombre=str, numero=str, materia=str, calif=int):
             self.nombre = nombre
             self.numero = numero
