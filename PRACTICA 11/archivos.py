@@ -61,6 +61,7 @@ try: #try para errores y excepciones
     arch.write("\n\n")
     arch.write(txt3)
     arch.close()
+    print("Se genero el archivo de texto correctamente.")
 
 except TypeError:
     print("Solo se puede concatenar str (no int) a str")
