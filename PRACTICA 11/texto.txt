@@ -1,0 +1,32 @@
+Nombre: Luis Enrique
+Matricula: 1275919
+Calificacion 1: 100
+Calificacion 2: 78
+Calificacion 3: 99
+Calificacion 4: 99
+Calificacion 5: 87
+Calificacion 6: 58
+Calificacion 7: 67
+Promedio:84.0
+
+Nombre: Gabriela
+Matricula: 121112
+Calificacion 1: 78
+Calificacion 2: 99
+Calificacion 3: 100
+Calificacion 4: 99
+Calificacion 5: 78
+Calificacion 6: 98
+Calificacion 7: 78
+Promedio:90.0
+
+Nombre: Sebastian
+Matricula: 15159
+Calificacion 1: 78
+Calificacion 2: 78
+Calificacion 3: 78
+Calificacion 4: 99
+Calificacion 5: 99
+Calificacion 6: 100
+Calificacion 7: 67
+Promedio:85.57142857142857
